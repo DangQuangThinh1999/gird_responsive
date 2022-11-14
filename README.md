@@ -1,11 +1,12 @@
 #GIRD  ( RESPONSIVE)
 
+Based on the width of the device screen :
 
--------width: 1200px -PC
+  -------PC: 1200px 
 
--------tablet: > 740px
+  -------tablet: > 740px
 
--------mobi : < 740px
+  -------mobi : < 740px
 
 row = 12 column
 

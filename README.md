@@ -2,7 +2,9 @@
 
 
 -------width: 1200px -PC
+
 -------tablet: > 740px
+
 -------mobi : < 740px
 
 row = 12 column
